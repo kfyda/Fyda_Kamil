@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hasło: 12345
+=======
+hasło: 55555
+>>>>>>> 9913a1a (Ustawienie hasła User_1)
